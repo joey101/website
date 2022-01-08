@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: Jawad Tanana
 description: _Italic_It's not about being the best, it's about being BETTER than you were yesterday.
+
+layout: page
+title: "Resume"
+permalink: "/resume.pdf"
