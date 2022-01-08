@@ -1,4 +1,4 @@
-# Jawad Tanana
+# Projects:
 
 ##Coding Curriculum
 
