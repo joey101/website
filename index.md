@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Projects
+
+##Coding Curriculum
+
+##RFID Scanning
+
+##UAV Quadcopter
+
+##Traffic Light System
+
+##Image Recognition
 
 You can use the [editor on GitHub](https://github.com/joey101/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
