@@ -1,3 +1,27 @@
 theme: jekyll-theme-hacker
 title: Jawad Tanana
-description: _Italic_It's not about being the best, it's about being BETTER than you were yesterday.
+decription: 
+description: *"It's not about being the best, it's about being BETTER than you were yesterday."*
+
+<!--: [Resume](https://github.com/joey101/website/edit/gh-pages/resume.pdf)-->
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jawad Tanana</title>
+<header>
+      <div class="container">
+        <h1>Jawad Tanana</h1>
+        <h2>Mechatronic Engineering and Computer Science</h2>
+
+
+            <a href="/">Home</a>
+            <a href="/me">About</a>
+            <a href="/resume.pdf">Resume</a>
+            <a href="/projects">Projects</a>
+        </div>
+    </header>
+    </head>
