@@ -1,8 +1,21 @@
 ---
 layout: default
 ---
+<article class="post">
 
-## [Link to another page] (./projects/traffic_light_system.md) Traffic Light System
+      <h1><a href="./projects/traffic_light_system.md">Traffic Light System</a></h1>
+
+      <div class="entry">
+        <p>ROP challenges for UNSW secedu seminar.</p>
+
+
+      </div>
+
+</article>
+
+
+
+<!--<h2 [Link to another page] () -->
 ## [Link to another page] (./projects/coding_curriculum.md) Coding Curriculum
 ## [Link to another page] (./projects/object_detection.md)Object Detection
 ## [Link to another page] (./projects/rfid_scanner.md)RFID Scanner
