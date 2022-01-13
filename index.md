@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Traffic Light System
-## Coding Curriculum
-## Object Detection
-## RFID Scanner
-## Quadcopter UAV
-## Remote Door Lock
+## [Link to another page] (./projects/traffic_light_system.md) Traffic Light System
+## [Link to another page] (./projects/coding_curriculum.md) Coding Curriculum
+## [Link to another page] (./projects/object_detection.md)Object Detection
+## [Link to another page] (./projects/rfid_scanner.md)RFID Scanner
+## [Link to another page] (./projects/quadcopter.md)Quadcopter UAV
+## [Link to another page] (./projects/remote_door_lock.md)Remote Door Lock
 
 
 
