@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post">
+<article class="projects">
 
       <h2><a href="/projects/traffic_light_system.md">Traffic Light System</a></h2>
 
@@ -12,7 +12,7 @@ layout: default
       </div>
 
 </article>
-<article class="post">
+<article class="projects">
 
       <h2><a href="/projects/coding_curriculum.md">Coding Curriculum</a></h2>
 
@@ -23,7 +23,7 @@ layout: default
       </div>
 
 </article>
-<article class="post">
+<article class="projects">
 
       <h2><a href="/projects/traffic_light_system.md">Traffic Light System</a></h2>
 
@@ -34,7 +34,7 @@ layout: default
       </div>
 
 </article>
-<article class="post">
+<article class="projects">
 
       <h2><a href="/projects/object_detection.md">Object Detection</a></h2>
 
@@ -45,7 +45,7 @@ layout: default
       </div>
 
 </article>
-<article class="post">
+<article class="projects">
 
       <h2><a href="/projects/rfid_scanner.md">RFID Scanner</a></h2>
 
@@ -56,7 +56,7 @@ layout: default
       </div>
 
 </article>
-<article class="post">
+<article class="projects">
 
       <h2><a href="/projects/quadcopter.md">Quadcopter UAV</a></h2>
 
@@ -67,7 +67,7 @@ layout: default
       </div>
 
 </article>
-<article class="post">
+<article class="projects">
 
       <h2><a href="/projects/remote_door_lock.md">Remote Door Lock</a></h2>
 
