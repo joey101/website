@@ -2,9 +2,7 @@
 layout: default
 ---
 
-
-
-
+# Jawad Tanana
 
 ## Traffic Light System
 ## Coding Curriculum
