@@ -3,24 +3,82 @@ layout: default
 ---
 <article class="post">
 
-      <h1><a href="./projects/traffic_light_system.md">Traffic Light System</a></h1>
+      <h2><a href="./projects/traffic_light_system.md">Traffic Light System</a></h2>
 
       <div class="entry">
-        <p>ROP challenges for UNSW secedu seminar.</p>
+        <p>Arduino based project experimenting in 9th grade.</p>
+
+
+      </div>
+
+</article>
+<article class="post">
+
+      <h2><a href="./projects/coding_curriculum.md">Coding Curriculum</a></h2>
+
+      <div class="entry">
+        <p>Arduino based project experimenting in 9th grade.</p>
+
+
+      </div>
+
+</article>
+<article class="post">
+
+      <h2><a href="./projects/traffic_light_system.md">Traffic Light System</a></h2>
+
+      <div class="entry">
+        <p>Arduino based project experimenting in 9th grade.</p>
+
+
+      </div>
+
+</article>
+<article class="post">
+
+      <h2><a href="./projects/object_detection.md">Object Detection</a></h2>
+
+      <div class="entry">
+        <p>Arduino based project experimenting in 9th grade.</p>
+
+
+      </div>
+
+</article>
+<article class="post">
+
+      <h2><a href="./projects/rfid_scanner.md">RFID Scanner</a></h2>
+
+      <div class="entry">
+        <p>Arduino based project experimenting in 9th grade.</p>
+
+
+      </div>
+
+</article>
+<article class="post">
+
+      <h2><a href="./projects/quadcopter.md">Quadcopter UAV</a></h2>
+
+      <div class="entry">
+        <p>Arduino based project experimenting in 9th grade.</p>
+
+
+      </div>
+
+</article>
+<article class="post">
+
+      <h2><a href="./projects/remote_door_lock.md">Remote Door Lock</a></h2>
+
+      <div class="entry">
+        <p>Arduino based project experimenting in 9th grade.</p>
 
 
       </div>
 
 </article>
 
-
-
-<!--<h2 [Link to another page] () -->
-## [Link to another page] (./projects/coding_curriculum.md) Coding Curriculum
-## [Link to another page] (./projects/object_detection.md)Object Detection
-## [Link to another page] (./projects/rfid_scanner.md)RFID Scanner
-## [Link to another page] (./projects/quadcopter.md)Quadcopter UAV
-## [Link to another page] (./projects/remote_door_lock.md)Remote Door Lock
 
 
 
