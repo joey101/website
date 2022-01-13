@@ -1,3 +1,5 @@
+<!-->
+
 # 4/01/2022 - Decided to start building a 
 # Website that will contain all my projects and resumes. 
 
@@ -18,3 +20,4 @@
 # 08/01/2022 - Did not do anything the previous day was lazy. Linked the CSS file
 # played around with the content a little. Too nit picky and time consuming. 
 # Moving on to a template website, BUT I now understand the mechanics of a website.
+<-->
