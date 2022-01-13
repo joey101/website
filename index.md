@@ -25,17 +25,6 @@ layout: default
 </article>
 <article class="projects">
 
-      <h2><a href="/projects/traffic_light_system.md">Traffic Light System</a></h2>
-
-      <div class="entry">
-        <p>Arduino based project experimenting in 9th grade.</p>
-
-
-      </div>
-
-</article>
-<article class="projects">
-
       <h2><a href="/projects/object_detection.md">Object Detection</a></h2>
 
       <div class="entry">
