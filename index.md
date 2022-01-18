@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-
-
 # [Traffic Light System](/projects/traffic_light_system.html)
 
 Arduino based project creating traffic light system in 9th grade.
