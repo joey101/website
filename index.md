@@ -61,7 +61,7 @@ layout: default
       <h2 style="color:#0bbb63;"><a href="/projects/remote_door_lock.html">Remote Door Lock</a></h2>
 
       <div class="entry">
-        <p style="color:#d4d6d6;">3D printed own lock brackets and made it remote control.</p>
+        <p style="color:#d4d6d6;">3D printed own lock brackets and made it remote controlled.</p>
 
 
       </div>
