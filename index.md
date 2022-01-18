@@ -4,9 +4,11 @@ layout: default
 
 
 
-# [/projects/traffic_light_system.html](Traffic Light System)
+# [Traffic Light System](/projects/traffic_light_system.html)
 
+Arduino based project creating traffic light system in 9th grade.
 
+# [/projects/coding_curriculum.html](Coding Curriculum)
 
 <article class="projects">
 
