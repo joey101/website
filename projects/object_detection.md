@@ -4,7 +4,15 @@ title: Object Detection
 description: This is just another page
 ---
 
-## Welcome to another page
+# Object Detection
+
+## Goal:
+
+The goal of this project is to use a Raspberry Pi to use tensorflow and opencv to detect objects. The specific objects that it will be detecting are parking ranges in order to purchase a ticket.
+
+## Code:
+
+[Link to Code]()
 
 
 

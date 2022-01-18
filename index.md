@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="projects">
 
-      <h2><a href="/projects/traffic_light_system.md">Traffic Light System</a></h2>
+      <h2><a href="/projects/traffic_light_system.html">Traffic Light System</a></h2>
 
       <div class="entry">
         <p>Arduino based project experimenting in 9th grade.</p>
@@ -14,7 +14,7 @@ layout: default
 </article>
 <article class="projects">
 
-      <h2><a href="/projects/coding_curriculum.md">Coding Curriculum</a></h2>
+      <h2><a href="/projects/coding_curriculum.html">Coding Curriculum</a></h2>
 
       <div class="entry">
         <p>Arduino based project experimenting in 9th grade.</p>
@@ -25,7 +25,7 @@ layout: default
 </article>
 <article class="projects">
 
-      <h2><a href="/projects/object_detection.md">Object Detection</a></h2>
+      <h2><a href="/projects/object_detection.html">Object Detection</a></h2>
 
       <div class="entry">
         <p>Arduino based project experimenting in 9th grade.</p>
@@ -36,7 +36,7 @@ layout: default
 </article>
 <article class="projects">
 
-      <h2><a href="/projects/rfid_scanner.md">RFID Scanner</a></h2>
+      <h2><a href="/projects/rfid_scanner.html">RFID Scanner</a></h2>
 
       <div class="entry">
         <p>Arduino based project experimenting in 9th grade.</p>
@@ -47,7 +47,7 @@ layout: default
 </article>
 <article class="projects">
 
-      <h2><a href="/projects/quadcopter.md">Quadcopter UAV</a></h2>
+      <h2><a href="/projects/quadcopter.html">Quadcopter UAV</a></h2>
 
       <div class="entry">
         <p>Arduino based project experimenting in 9th grade.</p>
@@ -58,7 +58,7 @@ layout: default
 </article>
 <article class="projects">
 
-      <h2><a href="/projects/remote_door_lock.md">Remote Door Lock</a></h2>
+      <h2><a href="/projects/remote_door_lock.html">Remote Door Lock</a></h2>
 
       <div class="entry">
         <p>Arduino based project experimenting in 9th grade.</p>
