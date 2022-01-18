@@ -12,7 +12,9 @@ The goal of this project is to use a Raspberry Pi to use tensorflow and opencv t
 
 ## Code:
 
-[Link to Code]()
+[Link to Code](https://github.com/joey101/object_detection)
+
+## Pictures
 
 
 
