@@ -18,4 +18,4 @@ The goal of this project is to use a Raspberry Pi to use tensorflow and opencv t
 
 
 
-[back](./)
+[back](../index.html)

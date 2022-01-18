@@ -19,16 +19,16 @@ Learnt about other systems like an Arduino and settled on a company called makeb
 
 
 ## Picture Gallery:
-[Picture1](../teach_to_code_pic/001.JPG)
-[Picture2](../teach_to_code_pic/002.JPG)
-[Picture3](../teach_to_code_pic/003.JPG)
-[Picture4](../teach_to_code_pic/004.JPG)
-[Picture5](../teach_to_code_pic/005.JPG)
-[Picture6](../teach_to_code_pic/006.JPG)
-[Picture7](../teach_to_code_pic/007.JPG)
+![Picture1](../teach_to_code_pic/001.JPG)
+![Picture2](../teach_to_code_pic/002.JPG)
+![Picture3](../teach_to_code_pic/003.JPG)
+![Picture4](../teach_to_code_pic/004.JPG)
+![Picture5](../teach_to_code_pic/005.JPG)
+![Picture6](../teach_to_code_pic/006.JPG)
+![Picture7](../teach_to_code_pic/007.JPG)
 
 
 
 [Link to the report](../files/personal_project_report.pdf)
 
-[back](./)
+[back](../index.html)

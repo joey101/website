@@ -8,4 +8,4 @@ description: This is just another page
 
 
 
-[back](./)
+[back](../index.html)
