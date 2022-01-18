@@ -4,7 +4,7 @@ title: Coding Curriculum
 description: This is just another page
 ---
 
-## Welcome to another page
+# Coding Curriculum
 
 ## About:
 During 10th grade as part of the IB curriculum we had to do projects on any topic that addressed issues around the world.
