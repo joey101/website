@@ -6,7 +6,7 @@ layout: default
       <h2 style="color:#0bbb63;"><a href="/projects/traffic_light_system.html">Traffic Light System</a></h2>
 
       <div class="entry">
-        <p style="color:#d4d6d6;">Arduino based project creating traffic light system in 9th grade</p>
+        <p style="color:#d4d6d6;">Arduino based project creating traffic light system in 9th grade.</p>
 
 
       </div>
