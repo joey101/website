@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+
+
+# [/projects/traffic_light_system.html](Traffic Light System)
+
+
+
 <article class="projects">
 
       <h2 style="color:#0bbb63;"><a href="/projects/traffic_light_system.html">Traffic Light System</a></h2>
