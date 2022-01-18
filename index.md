@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: Jawad Tanana
 ---
 
 # [Traffic Light System](/projects/traffic_light_system.html)
