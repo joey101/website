@@ -12,7 +12,7 @@ The goal of this project was to use a raspberry pi to scan access cards and send
 
 ## Code:
 
-[Link to Code](https://github.com/joey101/arduino/RFID_scanner.py)
+[Link to Code](https://github.com/joey101/arduino/blob/main/RFID/RFID.py)
 
 
 [back](../index.html)
