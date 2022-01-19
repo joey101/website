@@ -3,10 +3,6 @@ layout: default
 title: Jawad Tanana
 ---
 
-# [Traffic Light System](/projects/traffic_light_system.html)
-
-Arduino based project creating traffic light system in 9th grade.
-
 # [Coding Curriculum](/projects/coding_curriculum.html)
 
 Highschool based project taught kids to code in scratch.
@@ -14,6 +10,10 @@ Highschool based project taught kids to code in scratch.
 # [RFID Scanner](/projects/rfid_scanner.html)
 
 Arduino based project creating simple card detection, cloning and dumping code.
+
+# [Traffic Light System](/projects/traffic_light_system.html)
+
+Arduino based project creating traffic light system in 9th grade.
 
 # In Progress:
 
