@@ -8,7 +8,7 @@ description: This is just another page
 
 ## Code:
 
-[Link to Code](https://github.com/joey101/arduino_project_code/blob/main/RFID_scanner.py)
+[Link to Code](https://github.com/joey101/arduino/RFID_scanner.py)
 
 
 [back](../index.html)
