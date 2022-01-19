@@ -6,6 +6,9 @@ description: This is just another page
 
 # Remote Door Lock
 
+## Goal:
+
+This project was created simply to lock the room door after it was closed. It was inspired from 'The Amazing Spider Man'.
 
 ## Code:
 

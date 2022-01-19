@@ -6,6 +6,9 @@ description: This is just another page
 
 # Traffic Light System
 
+## Goal:
+
+This project was done in 9th grade as one of my very first projects, intorducing me to the realm of coding and microcontrollers.
 
 ## Code:
 
