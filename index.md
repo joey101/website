@@ -11,13 +11,15 @@ Arduino based project creating traffic light system in 9th grade.
 
 Highschool based project taught kids to code in scratch.
 
-# [Object Detection](/projects/object_detection.html)
-
-Raspberry Pi Project, using tensorflow and opencv.
-
 # [RFID Scanner](/projects/rfid_scanner.html)
 
 Arduino based project creating simple card detection, cloning and dumping code.
+
+# In Progress:
+
+# [Object Detection](/projects/object_detection.html)
+
+Raspberry Pi Project, using tensorflow and opencv.
 
 # [Quadcopter UAV](/projects/quadcopter.html)
 
