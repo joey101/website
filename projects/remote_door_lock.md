@@ -14,5 +14,6 @@ This project was created simply to lock the room door after it was closed. It wa
 
 [Link to Code](https://github.com/joey101/arduino/tree/main/lock)
 
+## Picture Gallery:
 
 [back](../index.html)

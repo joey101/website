@@ -14,5 +14,6 @@ The goal of this project was to use a raspberry pi to scan access cards and send
 
 [Link to Code](https://github.com/joey101/arduino/blob/main/RFID/RFID.py)
 
+## Picture Gallery:
 
 [back](../index.html)
