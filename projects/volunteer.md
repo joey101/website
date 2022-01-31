@@ -15,14 +15,14 @@ This project was done in 11th grade as part of a community service. This was par
 We travelled to Tanzania in Africa, where we particpated in humanitarian projects vised over projects, and attended to schools in need of aid.
 
 
-## Pictures:
+## Pictures Gallery:
 
 ![Picture1](../images/africa/001.JPG)
-![Picture1](../images/africa/233.JPG)
-![Picture1](../images/africa/259.JPG)
-![Picture1](../images/africa/314.JPG)
-![Picture1](../images/africa/316.JPG)
-![Picture1](../images/africa/492.JPG)
+![Picture2](../images/africa/233.JPG)
+![Picture3](../images/africa/259.JPG)
+![Picture4](../images/africa/314.JPG)
+![Picture5](../images/africa/316.JPG)
+![Picture6](../images/africa/492.JPG)
 
 
 [back](../index.html)
