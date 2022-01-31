@@ -12,7 +12,7 @@ This project was done in 11th grade as part of a community service. This was par
 
 ## What we did:
 
-We travelled to Tanzania in Africa, where we particpated in humantirian projects vised over projects, and attended to schools in need of aid.
+We travelled to Tanzania in Africa, where we particpated in humanitarian projects vised over projects, and attended to schools in need of aid.
 
 
 ## Pictures:
