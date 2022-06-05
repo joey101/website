@@ -9,8 +9,7 @@ description: This is just another page
 
 ## Goal:
 
-The goal of this project is to make a quadcopter, using a microcontroller. The 
-micro-controller that was utilised is an arduino nano. The goal was to make my own flight controller using a gyroscope and accelerometer, the MPU-6050 to be exact.
+The goal of this project is to make a quadcopter, using a microcontroller. The micro-controller that was utilised is an arduino nano. The goal was to make my own flight controller using a gyroscope and accelerometer, the MPU-6050 to be exact.
 
 ## What I learnt:
 
