@@ -14,6 +14,7 @@ The goal of this project is to make a quadcopter, using a microcontroller.
 ## Code:
 
 Still in Progress
+[Link to Code](https://github.com/joey101/quadcopter/tree/main/code)
 
 ## Picture Gallery:
 
