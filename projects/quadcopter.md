@@ -18,5 +18,6 @@ Still in Progress
 ## Picture Gallery:
 
 ![Picture1](../images/drone/001.JPG)
+![Picture2](../images/drone/002.JPG)
 
 [back](../index.html)
