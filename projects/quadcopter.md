@@ -9,11 +9,11 @@ description: This is just another page
 
 ## Goal:
 
-The goal of this project is to make a quadcopter, using a microcontroller. The micro-controller that was utilised is an arduino nano. The goal was to make my own flight controller using a gyroscope and accelerometer, the MPU-6050 to be exact.
+The goal of this project is to make a quadcopter, using a microcontroller. The micro-controller that was utilised is an arduino nano. The goal was to make my own flight controller using a gyroscope and accelerometer, the MPU-6050 to be exact. 
 
 ## What I learnt:
 
-This project taught me to read data sheets and convert a data sheet into code, I learnt and understood the communication method of I2C and the relationship between master and slave communication. 
+This project taught me to read data sheets and convert a data sheet into code, I learnt and understood the communication method of I2C and the relationship between master and slave communication. After researching, reading and watching alot of content, I opted to using the MPU-6050 library, in order to save time and uneccessary energy, as long as I understood the fundamentals of reading a data sheet.
 
 ## Code:
 
