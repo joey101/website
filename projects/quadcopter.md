@@ -18,7 +18,7 @@ This project taught me to read data sheets and convert a data sheet into code, I
 ## Code:
 
 Still in Progress.
-![Link to Code](https://github.com/joey101/quadcopter/tree/main/code)
+[Link to Code](https://github.com/joey101/quadcopter/tree/main/code)
 
 ## Picture Gallery: 
 
