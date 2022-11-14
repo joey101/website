@@ -12,6 +12,12 @@
   background-color: #78aa04;
 }
 
+.myBar:hover {
+  background-color: #4CAF50;
+
+}
+
+
 .center {
   margin-left: 10%;
   margin-right: 10%;
