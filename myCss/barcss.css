@@ -48,3 +48,9 @@
   background-color: #4CAF50;
   color: white;
 }
+
+.button1:hover:before {
+    content: "Click the bar now! ";
+    color: white;
+}
+
