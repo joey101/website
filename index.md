@@ -3,6 +3,8 @@ layout: default
 title: Jawad Tanana
 ---
 
+# (stuff.html)
+
 # [Coding Curriculum](/projects/coding_curriculum.html)
 
 Highschool based project taught kids to code in scratch.
