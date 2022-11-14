@@ -3,7 +3,7 @@ layout: default
 title: Jawad Tanana
 ---
 
-# (/stuff.html)
+# [](/stuff.html)
 
 # [Coding Curriculum](/projects/coding_curriculum.html)
 
