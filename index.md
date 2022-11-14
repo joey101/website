@@ -2,69 +2,7 @@
 layout: default
 title: Jawad Tanana
 ---
-<!DOCTYPE html>
-<html>
-<style>
-#myProgress {
-  border-radius: 10px;
-  height: 20px;
-  background-color: #ddd;
-}
 
-#myBar {
-  width: 1.5%;
-  border-radius: 50px;
-  height: 20px;
-  background-color: #78aa04;
-}
-.center {
-  text-align: center;
- 
-}
-.center2 {
-  margin-left: 20%;
-  margin-right: 20%;
- 
-}
-</style>
-
-<body class="center">
-
-    <div class="center2" id="myProgress">
-        <div id="myBar" onclick="goToBlog()"></div>
-    
-    </div>
-
-<br>
-<button onclick="move()">Click Me</button> 
-<script>
-
-function goToBlog () {
-    window.location.href = 'https://www.google.com'
-}
-    
-var i = 0;
-function move() {
-  if (i == 0) {
-    i = 1;
-    var elem = document.getElementById("myBar");
-    var width = 1;
-    var id = setInterval(frame, 10);
-    function frame() {
-      if (width >= 100) {
-        clearInterval(id);
-        i = 0;
-      } else {
-        width++;
-        elem.style.width = width + "%";
-      }
-    }
-  }
-}
-</script>
-
-</body>
-</html>
 # [Coding Curriculum](/projects/coding_curriculum.html)
 
 Highschool based project taught kids to code in scratch.
