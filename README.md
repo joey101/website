@@ -1,9 +1,9 @@
 
 
-## 4/01/2022 - 
+# 4/01/2022 - 
 Decided to start building a website that will contain all my projects and resumes. 
 
-## 5/01/2022 - 
+# 5/01/2022 - 
 Started going through w3schools.com and throwing random things onto my website. Started hositng it on netlify. Got a free domain from Namecheap.
 
 # 6/01/2022 - 
