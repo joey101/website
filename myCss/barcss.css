@@ -1,0 +1,22 @@
+
+#myProgress {
+  border-radius: 10px;
+  height: 20px;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 1.5%;
+  border-radius: 50px;
+  height: 20px;
+  background-color: #78aa04;
+}
+.center {
+  text-align: center;
+ 
+}
+.center2 {
+  margin-left: 20%;
+  margin-right: 20%;
+ 
+}
