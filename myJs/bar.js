@@ -1,7 +1,7 @@
 
 
 function goToBlog () {
-    window.location.href = 'https://www.google.com'
+    window.location.href = '../projects/blog.html'
 }
     
 var i = 0;
