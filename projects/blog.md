@@ -8,3 +8,5 @@ It will be a clickable entity that will allow you to go to my blogs, and LinkedI
 
 At the current moment I am just playing around and adding a random button to just learn hwo to actually have the progress bar on my page,
 and to redirect to this written blog.
+
+[back](../index.html)
