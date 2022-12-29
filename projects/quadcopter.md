@@ -15,6 +15,10 @@ The goal of this project is to make a quadcopter, using a microcontroller. The m
 
 This project taught me to read data sheets and convert a data sheet into code, I learnt and understood the communication method of I2C and the relationship between master and slave communication. After researching, reading and watching alot of content, I opted to using the MPU-6050 library, in order to save time and uneccessary energy, as long as I understood the fundamentals of reading a data sheet.
 
+## Blog:
+
+[Link to Code](https://github.com/joey101/quadcopter/BlogScript.md)
+
 ## Code:
 
 Still in Progress.
