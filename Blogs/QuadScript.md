@@ -25,7 +25,7 @@ in order to make them smoother and less jagged IF they were very small parts.
 
 The programming, uft was that the biggest headache ever. So how to start, I bought 4 random motors and ESC from Alibaba on line, did I know what an ESC is, of courseeee I did 
 not. I also bought a gryoscope, the MPU-6050, whyy some may ask, because yolo, seemed to fit the description of what I wanted and bam "worked".
-https://oscarliang.com/esc-firmware-protocols/
+[esc-firmware-protocols](https://oscarliang.com/esc-firmware-protocols/)
 
 So I initially tried programming the Gyro at the start of the year same time I was designing the initial horrible design of the drone and when I was still a NPC at coding. Not
 that much has changed. Used the MPU-6050 library, did not work, put it to the side left it for a year lol. Then I came back to it in December, and I wanted to reattempt
@@ -47,7 +47,7 @@ communicate with a device and its datasheet when I need to. As I was saying, mov
 sense, being exposed to datasheets, and having the mindset that when you see a chip, either find the library online or read a data sheet confused me for the ESC.
 I looked, and looked, and wondered and had NO Bloody clue how to code this monstrosity, I found a data sheet, did not know how to understand it, or use it to code. 
 Then I was just lazily searched how to code an ESC (DO NOT ask me why I did not lead with a google search like this). AND VOILA found the answer on this GITHUB, 
-https://github.com/lobodol/ESC-calibration   oh mate once I hooked up one motor and use this code, I almost orgasmed at the fact that it worked.
+[ESC-calibration](https://github.com/lobodol/ESC-calibration) oh mate once I hooked up one motor and use this code, I almost orgasmed at the fact that it worked.
 
 Now why did it work some may ask, well down I went a rabbit hole of trying to understand, an ESC, coding it and controlling motors. TLDR ESC all have standard firmware on 
 them and the firmware translates known protocols for communciating to them into signals for the motor to turn, example PWM, Dshot, etc these are all different ways of sending
