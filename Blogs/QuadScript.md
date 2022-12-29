@@ -55,8 +55,3 @@ signals to the motor through the ESC and the esc just knows how to convert them 
 for. What's PWM? well, go google because sack trying to explain, it isn't that hard to understand.
 
 [back](../projects/quadcopter.html)
-
-
-
-
-
