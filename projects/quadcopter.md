@@ -14,6 +14,7 @@ The goal of this project is to make a quadcopter, using a microcontroller. The m
 ## What I learnt:
     - Reading Data sheets.
     - Manufacturing on CAD.
+    - 3D printing.
     - Making unrelated things connect with eachother.
 
 ## Blog:
