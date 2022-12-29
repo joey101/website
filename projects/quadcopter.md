@@ -27,7 +27,14 @@ Still in Progress.
 
 ## Picture Gallery: 
 
+### Unmanufacturable Design:
+![Can't Make](../images/drone/unmanufacturable.jpg)
+
+### Old Design:
 ![Picture1](../images/drone/001.jpg)
 ![Picture2](../images/drone/002.jpg)
+
+### New Design:
+![Picture3](../images/drone/003.jpg)
 
 [back](../index.html)
