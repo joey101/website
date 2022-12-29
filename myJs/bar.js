@@ -1,7 +1,7 @@
 
 
 function goToBlog () {
-    window.location.href = '../projects/blog.html'
+    window.location.href = '../Blog/blog.html'
 }
     
 var i = 0;
