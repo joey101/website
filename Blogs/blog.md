@@ -9,4 +9,8 @@ It will be a clickable entity that will allow you to go to my blogs, and LinkedI
 At the current moment I am just playing around and adding a random button to just learn how to actually have the progress bar on my page,
 and to redirect to this written blog.
 
+# Blogs:
+
+[Link to Quadcopter Blog](../Blogs/QuadScript.html)
+
 [back](../index.html)
