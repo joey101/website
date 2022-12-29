@@ -17,7 +17,7 @@ This project taught me to read data sheets and convert a data sheet into code, I
 
 ## Blog:
 
-[Link to Code](https://github.com/joey101/quadcopter/BlogScript.md)
+[Link to Blog](https://github.com/joey101/quadcopter/BlogScript)
 
 ## Code:
 
