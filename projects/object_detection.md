@@ -10,6 +10,10 @@ description: This is just another page
 
 The goal of this project is to use a Raspberry Pi to use tensorflow and opencv to detect objects. The specific objects that it will be detecting are parking ranges in order to purchase a ticket.
 
+## Blog:
+
+[Link to Object Detection Blog](../Blogs/object_detection.html)
+
 ## Code:
 
 [Link to Code](https://github.com/joey101/object_detection)
