@@ -14,15 +14,15 @@ Arduino based project creating simple card detection, cloning and dumping code.
 
 Arduino based project creating traffic light system in 9th grade.
 
+# [Quadcopter UAV](/projects/quadcopter.html)
+
+Creating a quadcopter using arduino. (Iteration 1)
+
 # In Progress:
 
 # [Object Detection](/projects/object_detection.html)
 
 Raspberry Pi Project, using tensorflow and opencv.
-
-# [Quadcopter UAV](/projects/quadcopter.html)
-
-Creating a quadcopter using arduino.
 
 # [Remote Door Lock](/projects/remote_door_lock.html)
 
