@@ -18,13 +18,16 @@ The goal of this project is to make a quadcopter, using a microcontroller. The m
 - Sizing matters to the mm, design on paper then on CAD.
 - Making unrelated things connect with eachother.
 
+## What I need to work on:
+- Vibrational force (sturdier design).
+- Bluetooth Module.
+- Equal Power to all the motors.
+
 ## Blog:
 
 [Link to Quadcopter Blog](../Blogs/QuadScript.html)
 
 ## Code:
-
-Still in Progress.
 
 [Link to Code](https://github.com/joey101/quadcopter/tree/main/code)
 

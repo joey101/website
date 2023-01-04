@@ -57,6 +57,6 @@ for. What's PWM? well, go google because sack trying to explain, it isn't that h
 #### 4/01/2023
 
 Today is a big day, as I got my propellors and power distrubtion board, I hooked it all up and have officially "finished the drone". I uploaded my code to my arduino and powered 
-the motors. "IT WORKED", well partially. 
+the motors. "IT WORKED", well partially. Iteration 1 of my drone build is now complete, but there is still a lot of room for improvement. I plan to work on the structural component and address issues with vibrations and ensuring that all four motors are powering at the same level. I also plan to incorporate a gyroscope and accelerometer, as well as attach a Bluetooth module.
 
 [back](../projects/quadcopter.html)
