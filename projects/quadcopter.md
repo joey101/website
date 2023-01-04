@@ -28,7 +28,10 @@ Still in Progress.
 
 [Link to Code](https://github.com/joey101/quadcopter/tree/main/code)
 
-## Picture Gallery: 
+## Picture Gallery:
+
+Need to figure out a way to embedd videos into my website, but until then it is not my primary concern here is my google photos album. 
+[Link to Images and Videos](https://photos.app.goo.gl/HqWgAw4qKFifhEAV9)
 
 ### Unmanufacturable Design:
 ![Can't Make](../images/drone/unmanufacturable.jpg)
