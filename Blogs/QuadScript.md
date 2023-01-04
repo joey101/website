@@ -54,4 +54,9 @@ them and the firmware translates known protocols for communciating to them into 
 signals to the motor through the ESC and the esc just knows how to convert them and talk to the motor. And thankfully ESC's accept PWM which an arduino alraedy has a library
 for. What's PWM? well, go google because sack trying to explain, it isn't that hard to understand.
 
+#### 4/01/2023
+
+Today is a big day, as I got my propellors and power distrubtion board, I hooked it all up and have officially "finished the drone". I uploaded my code to my arduino and powered 
+the motors. "IT WORKED", well partially. 
+
 [back](../projects/quadcopter.html)
