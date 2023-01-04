@@ -12,6 +12,7 @@ and to redirect to this written blog.
 # Blogs:
 
 [Link to Quadcopter Blog](../Blogs/QuadScript.html)
+
 [Link to Object Detection Blog](../Blogs/object_detection.html)
 
 [back](../index.html)
