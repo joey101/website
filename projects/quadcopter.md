@@ -22,6 +22,7 @@ The goal of this project is to make a quadcopter, using a microcontroller. The m
 - Vibrational force (sturdier design).
 - Bluetooth Module.
 - Equal Power to all the motors.
+    - The Gyroscope is how I can distribute the power evenly across the 4 motors. Because I just wrote give it power and every motor will interpret that number differently, then the gyroscope will basically say "oh I'm unbalance in this direction", then I'll know oh this side isn't producing as much power let's give it more power. Then it'll just be a constant feedback sort of loop. (I think this is the solution.)
 
 ## Blog:
 
