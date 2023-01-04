@@ -39,5 +39,6 @@ Still in Progress.
 
 ### New Design:
 ![Picture3](../images/drone/003.jpg)
+![Picture4](../images/drone/004.jpg)
 
 [back](../index.html)
