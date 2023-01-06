@@ -22,4 +22,19 @@ within an image.
 - What is Mean Squared Error (MSE)?
     - Sometimes we want to compare two pictures to see how similar they are. One way we can do that is by looking at how different the pixels are in each picture. We can add up all the differences and then square them. This makes the big differences even bigger and the small differences even smaller. Then we divide the total by the number of pixels to get an average difference. This is called the mean squared error, or MSE.
 
+## Things to Compare:
+1. Picture quality.
+
+2. Clarity of in-frame objects.
+
+3. Orientation.
+
+4. Timestamp.
+
+5. Location.
+
+6. Bitmap size of the image.
+
+7. Details in a picture.
+
 [back](../projects/object_detection.html)
