@@ -1,8 +1,9 @@
-let loadingBar = document.getElementById("myBar");
-var loading = 0;
-var loadingSpeed = 0.4;
-
 function updateLoading() {
+  let loadingBar = document.getElementById("myBar");
+  var loading = 0;
+  var loadingSpeed = 0.4;
+
+
   loading += loadingSpeed;
   if (loading > 50) {
     loadingSpeed *= 0.99;
