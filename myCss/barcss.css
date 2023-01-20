@@ -46,6 +46,6 @@
 }
 
 .button1:hover:before {
-    content: "Click the bar now! ";
+    content: " Click the bar now! ";
     color: white;
 }
