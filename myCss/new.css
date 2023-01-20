@@ -58,10 +58,43 @@
 
 h1 {
     text-align: center; /* Center the text */
-    background-color: #919191;
+    background-color: #9262ad;
     font-family: 'Abril Fatface', cursive;
 }
 
 body {
-    background-color: #919191;
+    background-color: #9262ad;
+}
+
+a {
+  text-decoration: none; /* remove underline from links */
+  color: blue; /* set link text color to blue */
+  font-size: 20px; /* set font size to 20px */
+  font-weight: bold; /* make link text bold */
+  margin-bottom: 10px; /* add a margin of 10px at the bottom of each link */
+}
+
+a:hover {
+  color: red; /* change link text color to red when hovered over */
+  cursor: pointer; /* change cursor to pointer when hovered over */
+}
+
+.button {
+  background-color: #4CAF50; /* set button background color */
+  color: white; /* set button text color */
+  padding: 15px 32px; /* set button padding */
+  text-align: center; /* center button text */
+  text-decoration: none; /* remove underline from button text */
+  display: inline-block; /* display button as an inline block */
+  font-size: 16px; /* set button text font size */
+  margin: 4px 2px; /* add margin around button */
+  cursor: pointer; /* change cursor to pointer when hovered over */
+}
+
+.button1 {border-radius: 12px;}
+
+a, button {
+  text-align: center; /* center link and button text */
+  display: block; /* display link and button as block elements */
+  margin: 0 auto; /* center link and button horizontally */
 }
