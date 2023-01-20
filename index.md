@@ -18,8 +18,6 @@ Arduino based project creating traffic light system in 9th grade.
 
 Creating a quadcopter using arduino. (Iteration 1)
 
-# [Moes Wedding](/Moe/start.html)
-
 # In Progress:
 
 # [Object Detection](/projects/object_detection.html)
@@ -33,3 +31,5 @@ Raspberry Pi Project, using tensorflow and opencv.
 # Volunteering:
 
 # [Welfare Aid International](/projects/volunteer.html)
+
+# [Moes Wedding](/Moe/start.html)
