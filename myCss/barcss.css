@@ -49,19 +49,3 @@
     content: "Click the bar now! ";
     color: white;
 }
-
-/* Center the progress bar */
-.center2 {
-    width: 50%; /* Width of the outside container */
-    margin: 0 auto; /* Center the container horizontally */
-}
-
-h1 {
-    text-align: center; /* Center the text */
-    background-color: #919191;
-    font-family: 'Abril Fatface', cursive;
-}
-
-body {
-    background-color: #919191;
-}
