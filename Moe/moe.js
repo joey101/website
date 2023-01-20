@@ -15,4 +15,3 @@ function updateLoading() {
     setTimeout(updateLoading, 10);
   }
 }
-updateLoading();
