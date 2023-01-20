@@ -16,9 +16,9 @@ Arduino based project creating traffic light system in 9th grade.
 
 # [Quadcopter UAV](/projects/quadcopter.html)
 
-# [Moes Wedding](/Moe/start.html)
-
 Creating a quadcopter using arduino. (Iteration 1)
+
+# [Moes Wedding](/Moe/start.html)
 
 # In Progress:
 
