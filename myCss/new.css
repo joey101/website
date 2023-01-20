@@ -58,7 +58,8 @@
 
 h1 {
     text-align: center; /* Center the text */
-    background-color: #ffffff;
+    color: white;
+    background-color: #57505c;
     font-family: 'Abril Fatface', cursive;
 }
 
@@ -68,7 +69,7 @@ body {
 
 a {
   text-decoration: none; /* remove underline from links */
-  color: rgb(198, 198, 252); /* set link text color to blue */
+  color: blue; /* set link text color to blue */
   font-size: 20px; /* set font size to 20px */
   font-weight: bold; /* make link text bold */
   margin-bottom: 10px; /* add a margin of 10px at the bottom of each link */
