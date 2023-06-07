@@ -20,6 +20,8 @@ Creating a quadcopter using arduino. (Iteration 1)
 
 # In Progress:
 
+# [Lectures](/Lectures/lectures.html)
+ 
 # [Object Detection](/projects/object_detection.html)
 
 Raspberry Pi Project, using tensorflow and opencv.
