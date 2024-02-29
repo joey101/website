@@ -4,6 +4,18 @@
   <meta charset="UTF-8">
 
   {% seo %}
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9WGD8NXVTS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9WGD8NXVTS');
+</script>
+
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,17 +46,17 @@
     <main id="content" class="main-content" role="main">
       <div class="center2" id="myProgress">
         <div class="myBar" id="myBar" onclick="goToBlog()"></div>
-    
+
     </div>
       <br>
-<button class="button button1" onclick="move()">Click Me</button> 
+<button class="button button1" onclick="move()">Click Me</button>
       {{ content }}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        
+
       </footer>
     </main>
   </body>
